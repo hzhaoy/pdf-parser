@@ -1,0 +1,50 @@
+hi_pdf_parser/cli/runner.py
+  h_c44fc2b8fee20f 1-144,146-309
+.pre-commit-config.yaml
+  s_e03a527d0428a0::t_6d8a6e52daa78c 10,15,20
+README.md
+  s_e03a527d0428a0::t_9f8c00c1318ccf 9,12-14
+hi_pdf_parser/__main__.py
+  s_e03a527d0428a0::t_3c968d472aa508 15,35,38-42,45-47,50,278
+hi_pdf_parser/cli/__init__.py
+  s_e03a527d0428a0::t_5f695cc101ad70 1
+hi_pdf_parser/cli/envelope.py
+  s_e03a527d0428a0::t_40a7b118feeb60 1
+hi_pdf_parser/cli/errors.py
+  s_e03a527d0428a0::t_13138d8a67fcd1 1,7,10
+hi_pdf_parser/cli/logging_setup.py
+  s_e03a527d0428a0::t_53426100d71efb 1,24,30
+hi_pdf_parser/cli/output_writer.py
+  s_e03a527d0428a0::t_16cac62bddac83 1,18-19
+pyproject.toml
+  s_e03a527d0428a0::t_305b50cb6c8767 26,33,83
+skills/hi-pdf-parser/SKILL.md
+  s_e03a527d0428a0::t_85c08ff88aaa5b 2-3,6,8,14-15,20,26,29,53-55,118,121,124,127,132,134
+skills/hi-pdf-parser/evals/evals.json
+  s_e03a527d0428a0::t_00a36d00731740 2-3,44,49,83,92
+uv.lock
+  s_e03a527d0428a0::t_59058e0edfd298 2,205
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "cf58a1c8b138f98b48f5470d02fd9c7a9c571898",
+  "prompts": {},
+  "humans": {
+    "h_c44fc2b8fee20f": {
+      "author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_e03a527d0428a0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f22f2-ff86-7461-b483-e28fed89ff10",
+        "model": "unknown"
+      },
+      "human_author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
