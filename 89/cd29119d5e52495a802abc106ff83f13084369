@@ -1,9 +1,16 @@
+hi_pdf_parser/__main__.py
+  h_c44fc2b8fee20f 15-18,20,22,24,29-31,34-74,76-77,80-83,86-89,92-144,146-162,164,166-167,169-190,192-213,215-216,219,222-230,232-233,235,276-289,293
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.5.2",
   "base_commit_sha": "89cd29119d5e52495a802abc106ff83f13084369",
   "prompts": {},
+  "humans": {
+    "h_c44fc2b8fee20f": {
+      "author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
   "attestation_metadata": {},
   "remote_transcripts": {}
 }
