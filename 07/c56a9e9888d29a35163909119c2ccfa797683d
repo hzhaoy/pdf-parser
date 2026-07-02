@@ -1,0 +1,48 @@
+pdf_parser/cli/output_writer.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-151
+pdf_parser/cli/logging_setup.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-75
+hi_pdf_parser/parser.py
+  s_040fd1cd9a62a6::t_341bedcc412525 128,143,207,212,214-215,217,243-260,683
+skills/litepdf/evals/fixtures/one_byte.pdf
+  s_040fd1cd9a62a6::t_341bedcc412525 1
+skills/litepdf/evals/evals.json
+  s_040fd1cd9a62a6::t_341bedcc412525 1-96
+pdf_parser/cli/envelope.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-69
+pdf_parser/cli/errors.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-103
+pyproject.toml
+  s_040fd1cd9a62a6::t_341bedcc412525 25-34,83
+pdf_parser/cli/runner.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-309
+pdf_parser/cli/__init__.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1
+skills/litepdf/evals/fixtures/fake.docx
+  s_040fd1cd9a62a6::t_341bedcc412525 1
+pdf_parser/cli/main.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-152
+pdf_parser/cli/page_range.py
+  s_040fd1cd9a62a6::t_341bedcc412525 1-69
+skills/litepdf/SKILL.md
+  s_040fd1cd9a62a6::t_341bedcc412525 1-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "07c56a9e9888d29a35163909119c2ccfa797683d",
+  "prompts": {},
+  "sessions": {
+    "s_040fd1cd9a62a6": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a436e85d241b2fe32f29838",
+        "model": "gpt-5.5__max",
+        "display_model_name": "GPT-5.5"
+      },
+      "human_author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
