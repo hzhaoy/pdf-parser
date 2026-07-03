@@ -1,0 +1,21 @@
+hi_pdf_parser/__main__.py
+  s_0ecad4365a1c67::t_0ef76dd88ef8b7 221-264,286
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "0b7ac31a43c1455ecc271e114e48e3c4835c04ee",
+  "prompts": {},
+  "sessions": {
+    "s_0ecad4365a1c67": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2343-3862-76a1-9a6f-3e2554b7cf5d",
+        "model": "unknown"
+      },
+      "human_author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
