@@ -1,0 +1,27 @@
+hi_pdf_parser/__main__.py
+  s_0ecad4365a1c67::t_7aa6212f863641 31,61,70,258-259
+hi_pdf_parser/cli/runner.py
+  s_0ecad4365a1c67::t_31543841fa0191 18,25-28,44
+hi_pdf_parser/logging_setup.py
+  s_0ecad4365a1c67::t_17f805121be304 1-4,17,23,26,42,45,53
+tests/test_logging_setup.py
+  s_0ecad4365a1c67::t_789d35a6d613fe 1-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "ff76cb20adfb0458d6f4492939e3c8309b0b5596",
+  "prompts": {},
+  "sessions": {
+    "s_0ecad4365a1c67": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2343-3862-76a1-9a6f-3e2554b7cf5d",
+        "model": "unknown"
+      },
+      "human_author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
