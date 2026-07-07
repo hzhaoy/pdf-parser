@@ -1,0 +1,39 @@
+hi_pdf_parser/__main__.py
+  s_fbe3f3195a7b86::t_d6720195d92728 22,28-31,92,95-137,158,197-199,221-222,230-231
+hi_pdf_parser/app.py
+  s_fbe3f3195a7b86::t_cbcdb1a1dbb22f 21,41-47
+hi_pdf_parser/artifact_writer.py
+  s_fbe3f3195a7b86::t_b9f07575beef5d 24-26,29,37-38,103-158
+hi_pdf_parser/command_runner.py
+  s_fbe3f3195a7b86::t_3b751bef6cec19 1-2,5-30,33-37,39-43,45-46,48-69,71,73-94,96-104,106-181,184-191
+hi_pdf_parser/datamodel.py
+  s_fbe3f3195a7b86::t_7a84b2e8c501e4 18,48-64
+hi_pdf_parser/parser.py
+  s_fbe3f3195a7b86::t_26bb267944f986 1251-1274
+pyproject.toml
+  s_fbe3f3195a7b86::t_f374e9dc0d7126 85
+tests/test_app.py
+  s_fbe3f3195a7b86::t_e1fdf55c15bcfd 25,36,39-54
+tests/test_commands.py
+  s_fbe3f3195a7b86::t_4bedf4223d7952 72-105
+tests/test_parser_construction.py
+  s_fbe3f3195a7b86::t_70bf301578daaa 6,9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "f560bf2c8d8272ffeeb29110d3ef261ac7698809",
+  "prompts": {},
+  "sessions": {
+    "s_fbe3f3195a7b86": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f26f5-504b-7943-8ff9-3ddaafa8cc07",
+        "model": "unknown"
+      },
+      "human_author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
