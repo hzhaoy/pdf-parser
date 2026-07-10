@@ -1,0 +1,29 @@
+README.md
+  s_fbe3f3195a7b86::t_aa76fa75a7aa73 27,31
+hi_pdf_parser/__main__.py
+  s_fbe3f3195a7b86::t_dae582cfb23750 27,30,40,50,177,181,188,210
+hi_pdf_parser/envelope.py
+  s_fbe3f3195a7b86::t_69af813a92be5d 3-4
+hi_pdf_parser/runner.py
+  s_fbe3f3195a7b86::t_7d6fd3b6a03ae1 1,14,33-34,36
+tests/test_commands.py
+  s_fbe3f3195a7b86::t_1d303bdb970553 47-48,105,111,127-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "dc46b6c411b2075e5e878d3f2bee7dcc7c221244",
+  "prompts": {},
+  "sessions": {
+    "s_fbe3f3195a7b86": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f26f5-504b-7943-8ff9-3ddaafa8cc07",
+        "model": "unknown"
+      },
+      "human_author": "hzhaoy <hzywong@gmail.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
